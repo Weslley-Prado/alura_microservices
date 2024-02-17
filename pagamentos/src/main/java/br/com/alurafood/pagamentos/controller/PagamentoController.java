@@ -23,7 +23,8 @@ import java.net.URI;
 
 @RestController
 @RequestMapping("/pagamentos")
-public class PagamentoController {
+public class
+PagamentoController {
 
     @Autowired
     private PagamentoService service;
