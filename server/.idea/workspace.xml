@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dcbe21ef-c061-4625-bddd-834e20b3001b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pagamentos/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pagamentos/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pagamentos/src/main/java/br/com/alurafood/pagamentos/PagamentosApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pagamentos/src/main/java/br/com/alurafood/pagamentos/PagamentosApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pagamentos/src/main/java/br/com/alurafood/pagamentos/controller/PagamentoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pagamentos/src/main/java/br/com/alurafood/pagamentos/controller/PagamentoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pagamentos/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../pagamentos/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pedidos/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
